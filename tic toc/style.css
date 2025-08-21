@@ -1,0 +1,14 @@
+body{ margin: 0; padding: 0; font: 1em sans-serif; text-align: center; }
+
+.container{ margin: 0 auto; max-width: 1000px; padding-top: 5vmin; }
+
+button.box{ height:150px; width:100px; text-align: center; line-height: 100px; cursor: pointer; border: 1px solid #000; width: 31.3333%; border-radius: 10px; font-size: 50px; color: green; text-transform: uppercase; }
+
+.grid-box{ display: flex; flex-wrap: wrap; margin-top: 5vmin; gap: 2%; row-gap: 20px; }
+
+#reset-Btn{ padding: 10px 15px; color: white; font-size: 18px; background:#101010; border: 0; border-radius: 5px; cursor: pointer; height: auto; width: auto; line-height: normal; margin-top: 40px; }
+
+#newGame{ padding: 10px 15px; color: white; font-size: 18px; background:#101010; border: 0; border-radius: 5px; cursor: pointer; height: auto; width: auto; line-height: normal; margin-top: 40px; }
+
+.winner{ color: green; font-size: 26px; }
+.hide{ display: none; }
