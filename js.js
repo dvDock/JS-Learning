@@ -153,7 +153,7 @@ modeBtn.addEventListener("click", () =>{
     console.log(curMode);
 }); */
 
-/*
+
  // way two - perfect example for add remove class and changes style according to class
 let modeBtn = document.querySelector("#modeBtn");
 let body = document.querySelector("body");
@@ -170,7 +170,7 @@ modeBtn.addEventListener("click", () =>{
         body.classList.remove("dark");
     }
     console.log(curMode);
-});  */
+});  
 
 /// Small game Tic Tac Toe
 
